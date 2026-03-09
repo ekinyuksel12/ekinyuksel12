@@ -7,9 +7,11 @@
 I specialize in the "engine room" of software engineering. While many focus on the application layer, my expertise lies in building the low-level architecture that makes those applications run efficiently. 
 
 ### 🛠️ Core Engineering Focus
-* **Systems Programming:** `C`, `C++17/20`, Memory Management, POSIX/Linux Internals.
+
+* **Systems Programming:** `C`, `C++`, `Memory Management`, `POSIX/Linux Internals`.
 * **Compiler Design:** Lexical analysis, AST construction, and interpreter architecture (Creator of the [HOPE Language](#)).
 * **Backend & API Architecture:** Building highly scalable, zero-dependency tools and infrastructure.
+
 ### 🚀 High-Impact Projects
 
 <table>
@@ -27,7 +29,7 @@ I specialize in the "engine room" of software engineering. While many focus on t
   <tr>
     <td align="center" width="100">
       <a href="https://github.com/ekinyuksel12/Sapling-Log">
-        <img src="./img/sapling.jpeg" width="80" height="80" alt="Sapling-Log Logo" style="border-radius: 10px;" />
+        <img src="./img/sapling.jpg" width="80" height="80" alt="Sapling-Log Logo" style="border-radius: 10px;" />
       </a>
     </td>
     <td>
@@ -59,6 +61,9 @@ I specialize in the "engine room" of software engineering. While many focus on t
   </tr>
 </table>
 <br/>
+
 <div align="center">
-  <a href="https://linkedin.com/in/teyuksel"><b>Connect on LinkedIn</b></a>
+  <a href="https://linkedin.com/in/teyuksel">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </div>
